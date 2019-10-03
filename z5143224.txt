@@ -1,0 +1,9 @@
+Week 2
+
+We founded the group, 4 rookies together, so we name it group Rookies. We had a strong discussion about choosing which topic as our project. Wenbo suggested project1 because it's not that hard to achieve, while I supposed by doing project7, we can learn a lot about useful career skills.
+
+Week 3
+
+We finally decided to do project7. I'm going to make backend with Golang instead of Python, that I believe Golang will become the first backend language and take place of java several years later. 
+We also discussed about what functions we are going to implemented, and wrote the proposal together. I wrote the "Scope & Technicals details" and epics of "Login+Register" and "Login+Register" part.
+ 
